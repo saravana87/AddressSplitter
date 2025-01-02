@@ -11,6 +11,7 @@ sudo apt update
 sudo apt install -y curl autoconf automake libtool pkg-config build-essential
 
 - Build and Install libpostal
+  
 git clone https://github.com/openvenues/libpostal
 
 cd libpostal
