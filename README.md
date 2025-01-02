@@ -1,5 +1,7 @@
 I am trying to use a minimized LLM mode to convert a bunch of address text into its State, City, Zip Code
-- I have used my Windows - WSL System to do this.
+I found this postal library which is very cool and does the job.
+
+- I used my Windows WSL System to do this.
   
 ***Instructions***
 
